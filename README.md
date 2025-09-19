@@ -19,7 +19,7 @@ The landing page features a modern responsive design and is built with semantic 
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/alex-marcovych/MyBike-LandingPage.git
    cd project-name
 ```
 
